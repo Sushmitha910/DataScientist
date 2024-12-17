@@ -1,12 +1,12 @@
 # Data Scientist
 
 ## Professional Summary
-A highly motivated and results-driven **Data Scientist** with a strong foundation in Python, machine learning, and data analysis. Passionate about leveraging data to solve complex problems and provide actionable insights. Proven track record of improving model performance and creating user-friendly solutions in both academic and professional settings.
+A highly motivated and results-driven **Data Scientist** with proficieny in Python, machine learning, and data analysis. Passionate about leveraging data to solve complex problems and provide actionable insights. Proven track record of improving model performance and creating user-friendly solutions in both academic and professional settings.
 
 #### Technical Skills: Python, SQL, Tableau, AWS
 
 ## Education
-- B.E., Computer Science & Engineering | Sambhram Institute of Technology (_May 2019_)								       		
+B.E., Computer Science & Engineering | Sambhram Institute of Technology (_May 2019_)								       		
 
 ## Work Experience
 **Data Science and Machine Learning Internship @ Edureka (_Nov 2022 - May 2023_)**
