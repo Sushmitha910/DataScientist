@@ -1,6 +1,10 @@
 title: Sushmitha R
 logo: /assets/logo.png
-
+personal_details:
+      email: "rsushmitha910@gmail.com"
+      github: "https://github.com/Sushmitha910/DataScientist"
+      linkedin: "www.linkedin.com/in/sushmitha-r777"
+      location: "City, Country"
 ##show_downloads: true
 ##google_analytics:
 theme: jekyll-theme-minimal
